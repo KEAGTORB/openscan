@@ -19,6 +19,6 @@ This script finds open port for web address.
 3. Once script is running, you can write any website you want, and it will print all open ports in range 50-500.
 
 
-## *Author Name*
+## *connect me*
 
-[Keagtorb](https://github.com/keagtorb)
+[Keagtorb](https://t.me/keagtorb79)
